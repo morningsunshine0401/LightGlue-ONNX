@@ -1,0 +1,1 @@
+python3 dynamo.py infer   weights/superpoint_lightglue_pipeline.onnx   assets/realAnchor.png assets/view32.jpg   superpoint   -h 720 -w 1280   -d cuda
